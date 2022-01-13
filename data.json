@@ -1,0 +1,319 @@
+{
+    "makanan" : [
+        {
+            "id" : "01",
+            "nama" : "Nasi Putih",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "02",
+            "nama" : "Nasi Goreng",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "03",
+            "nama" : "Mie",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "04",
+            "nama" : "Kentang",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "05",
+            "nama" : "Ubi",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "06",
+            "nama" : "Jagung",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "07",
+            "nama" : "Bakso",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "08",
+            "nama" : "Bubur",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "09",
+            "nama" : "Nasi Uduk",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "10",
+            "nama" : "Ayam",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "11",
+            "nama" : "Ikan",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "12",
+            "nama" : "Cumi",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "13",
+            "nama" : "Udang",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "14",
+            "nama" : "Telur",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "15",
+            "nama" : "Bakso",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "16",
+            "nama" : "Hati",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "16",
+            "nama" : "Tempe",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "17",
+            "nama" : "Tahu",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "18",
+            "nama" : "Oncom",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "19",
+            "nama" : "Sayur Sop",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "20",
+            "nama" : "Sayur Asam",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "21",
+            "nama" : "Sayur Bayam",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "22",
+            "nama" : "Sayur Lodeh",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "23",
+            "nama" : "Sayur Kangkung",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "24",
+            "nama" : "Susu",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "25",
+            "nama" : "Minyak",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "26",
+            "nama" : "Margarin",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "27",
+            "nama" : "Gula",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "28",
+            "nama" : "Sirup",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "29",
+            "nama" : "Minuman Manis",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "30",
+            "nama" : "Minuman Soda",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "31",
+            "nama" : "Gorengan",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "32",
+            "nama" : "Martabak",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "33",
+            "nama" : "Donat",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        },
+        {
+            "id" : "34",
+            "nama" : "Camilan Ringan",
+            "kkal" : "0",
+            "protein" : "0",
+            "lemak" : "0",
+            "karbohidrat" : "0",
+            "image" : ""
+        }
+    ]
+}
