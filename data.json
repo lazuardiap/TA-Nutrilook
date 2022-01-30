@@ -7,6 +7,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "200",
             "image" : ""
         },
         {
@@ -16,6 +17,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "200",
             "image" : ""
         },
         {
@@ -25,6 +27,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "100",
             "image" : ""
         },
         {
@@ -34,6 +37,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "100",
             "image" : ""
         },
         {
@@ -43,6 +47,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "150",
             "image" : ""
         },
         {
@@ -52,24 +57,27 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "180",
             "image" : ""
         },
         {
             "id" : "07",
-            "nama" : "Bakso",
+            "nama" : "Mie Bakso",
             "kkal" : "0",
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "400",
             "image" : ""
         },
         {
             "id" : "08",
-            "nama" : "Bubur",
+            "nama" : "Bubur Ayam",
             "kkal" : "0",
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "300",
             "image" : ""
         },
         {
@@ -79,6 +87,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "200",
             "image" : ""
         },
         {
@@ -88,6 +97,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "60",
             "image" : ""
         },
         {
@@ -97,6 +107,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "120",
             "image" : ""
         },
         {
@@ -106,6 +117,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "30",
             "image" : ""
         },
         {
@@ -115,6 +127,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "30",
             "image" : ""
         },
         {
@@ -124,6 +137,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "60",
             "image" : ""
         },
         {
@@ -133,15 +147,17 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "15",
             "image" : ""
         },
         {
             "id" : "16",
-            "nama" : "Hati",
+            "nama" : "Hati Ayam",
             "kkal" : "0",
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "30",
             "image" : ""
         },
         {
@@ -151,6 +167,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "50",
             "image" : ""
         },
         {
@@ -160,6 +177,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "40",
             "image" : ""
         },
         {
@@ -169,6 +187,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "50",
             "image" : ""
         },
         {
@@ -178,6 +197,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "250",
             "image" : ""
         },
         {
@@ -187,6 +207,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "250",
             "image" : ""
         },
         {
@@ -196,6 +217,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "100",
             "image" : ""
         },
         {
@@ -205,6 +227,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "250",
             "image" : ""
         },
         {
@@ -214,6 +237,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "100",
             "image" : ""
         },
         {
@@ -223,6 +247,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "200",
             "image" : ""
         },
         {
@@ -232,6 +257,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "10",
             "image" : ""
         },
         {
@@ -241,6 +267,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "10",
             "image" : ""
         },
         {
@@ -250,6 +277,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "7",
             "image" : ""
         },
         {
@@ -259,6 +287,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "220",
             "image" : ""
         },
         {
@@ -268,6 +297,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "220",
             "image" : ""
         },
         {
@@ -277,6 +307,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "220",
             "image" : ""
         },
         {
@@ -286,6 +317,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "100",
             "image" : ""
         },
         {
@@ -295,6 +327,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "70",
             "image" : ""
         },
         {
@@ -304,6 +337,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "30",
             "image" : ""
         },
         {
@@ -313,6 +347,7 @@
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
+            "grams" : "170",
             "image" : ""
         }
     ]
