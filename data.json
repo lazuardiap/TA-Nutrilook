@@ -161,7 +161,7 @@
             "image" : ""
         },
         {
-            "id" : "16",
+            "id" : "17",
             "nama" : "Tempe",
             "kkal" : "0",
             "protein" : "0",
@@ -171,7 +171,7 @@
             "image" : ""
         },
         {
-            "id" : "17",
+            "id" : "18",
             "nama" : "Tahu",
             "kkal" : "0",
             "protein" : "0",
@@ -181,7 +181,7 @@
             "image" : ""
         },
         {
-            "id" : "18",
+            "id" : "19",
             "nama" : "Oncom",
             "kkal" : "0",
             "protein" : "0",
@@ -191,7 +191,7 @@
             "image" : ""
         },
         {
-            "id" : "19",
+            "id" : "20",
             "nama" : "Sayur Sop",
             "kkal" : "0",
             "protein" : "0",
@@ -201,7 +201,7 @@
             "image" : ""
         },
         {
-            "id" : "20",
+            "id" : "21",
             "nama" : "Sayur Asam",
             "kkal" : "0",
             "protein" : "0",
@@ -211,7 +211,7 @@
             "image" : ""
         },
         {
-            "id" : "21",
+            "id" : "22",
             "nama" : "Sayur Bayam",
             "kkal" : "0",
             "protein" : "0",
@@ -221,7 +221,7 @@
             "image" : ""
         },
         {
-            "id" : "22",
+            "id" : "23",
             "nama" : "Sayur Lodeh",
             "kkal" : "0",
             "protein" : "0",
@@ -231,7 +231,7 @@
             "image" : ""
         },
         {
-            "id" : "23",
+            "id" : "24",
             "nama" : "Sayur Kangkung",
             "kkal" : "0",
             "protein" : "0",
@@ -241,7 +241,7 @@
             "image" : ""
         },
         {
-            "id" : "24",
+            "id" : "25",
             "nama" : "Susu",
             "kkal" : "0",
             "protein" : "0",
@@ -251,7 +251,7 @@
             "image" : ""
         },
         {
-            "id" : "25",
+            "id" : "26",
             "nama" : "Minyak",
             "kkal" : "0",
             "protein" : "0",
@@ -261,7 +261,7 @@
             "image" : ""
         },
         {
-            "id" : "26",
+            "id" : "27",
             "nama" : "Margarin",
             "kkal" : "0",
             "protein" : "0",
@@ -271,7 +271,7 @@
             "image" : ""
         },
         {
-            "id" : "27",
+            "id" : "28",
             "nama" : "Gula",
             "kkal" : "0",
             "protein" : "0",
@@ -281,7 +281,7 @@
             "image" : ""
         },
         {
-            "id" : "28",
+            "id" : "29",
             "nama" : "Sirup",
             "kkal" : "0",
             "protein" : "0",
@@ -291,7 +291,7 @@
             "image" : ""
         },
         {
-            "id" : "29",
+            "id" : "30",
             "nama" : "Minuman Manis",
             "kkal" : "0",
             "protein" : "0",
@@ -301,17 +301,17 @@
             "image" : ""
         },
         {
-            "id" : "30",
+            "id" : "31",
             "nama" : "Minuman Soda",
             "kkal" : "0",
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
-            "grams" : "220",
+            "grams" : "250",
             "image" : ""
         },
         {
-            "id" : "31",
+            "id" : "32",
             "nama" : "Gorengan",
             "kkal" : "0",
             "protein" : "0",
@@ -321,7 +321,7 @@
             "image" : ""
         },
         {
-            "id" : "32",
+            "id" : "33",
             "nama" : "Martabak",
             "kkal" : "0",
             "protein" : "0",
@@ -331,7 +331,7 @@
             "image" : ""
         },
         {
-            "id" : "33",
+            "id" : "34",
             "nama" : "Donat",
             "kkal" : "0",
             "protein" : "0",
@@ -341,13 +341,13 @@
             "image" : ""
         },
         {
-            "id" : "34",
+            "id" : "35",
             "nama" : "Camilan Ringan",
             "kkal" : "0",
             "protein" : "0",
             "lemak" : "0",
             "karbohidrat" : "0",
-            "grams" : "170",
+            "grams" : "200",
             "image" : ""
         }
     ]
